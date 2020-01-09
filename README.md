@@ -1,1 +1,3 @@
 # blake3-go
+
+⚠️⛔️*DANGEROUS INCOMPLETE CODE DO NOT USE*⚠️⛔️ 
